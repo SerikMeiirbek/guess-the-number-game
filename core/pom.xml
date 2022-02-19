@@ -27,6 +27,12 @@
             <version>${spring.version}</version>
         </dependency>
 
+        <!-- Annotation API -->
+        <dependency>
+            <groupId>javax.annotation</groupId>
+            <artifactId>javax.annotation-api</artifactId>
+            <version>${annotation-api.version}</version>
+        </dependency>
 
     </dependencies>
 
